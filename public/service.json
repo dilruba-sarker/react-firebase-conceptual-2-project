@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "treatment": "Teeth Whitening",
+      "image": "https://i.ibb.co.com/k68tZprX/istockphoto-1285827529-612x612.webp",
+      "description": "A cosmetic procedure that removes stains and discoloration from teeth, making them whiter and brighter. It enhances your smile and boosts confidence. Suitable for those with yellowing or stained teeth caused by coffee, tea, smoking, or aging. Results are quick and long-lasting with proper care.",
+      "cost": 150
+    },
+    {
+      "id": 2,
+      "treatment": "Dental Implants",
+      "image": "https://i.ibb.co.com/k68tZprX/istockphoto-1285827529-612x612.webp",
+      "description": "A permanent tooth replacement option involving a titanium post implanted into the jawbone. Provides a natural look and function, preventing bone loss and maintaining facial structure. Ideal for replacing missing teeth. Offers durability, stability, and comfort compared to dentures or bridges. Requires surgery and healing time.",
+      "cost": 1200
+    },
+    {
+      "id": 3,
+      "treatment": "Root Canal Therapy",
+      "image": "https://i.ibb.co.com/k68tZprX/istockphoto-1285827529-612x612.webp",
+      "description": "A treatment for severely decayed or infected teeth, removing damaged pulp and sealing the tooth. Prevents further infection and tooth loss. Relieves pain and restores function. Requires a crown for protection. Helps save natural teeth, avoiding extractions and replacements. Procedure is painless with modern anesthesia.",
+      "cost": 800
+    },
+    {
+      "id": 4,
+      "treatment": "Braces",
+      "image": "https://i.ibb.co.com/k68tZprX/istockphoto-1285827529-612x612.webp",
+      "description": "A dental treatment that corrects misaligned teeth and jaw positioning using metal or ceramic brackets. Helps improve bite, speech, and overall oral health. Suitable for children and adults. Treatment duration varies from months to years. Boosts confidence with a straighter smile. Regular adjustments are needed.",
+      "cost": 2500
+    },
+    {
+      "id": 5,
+      "treatment": "Dental Cleaning",
+      "image": "https://i.ibb.co.com/k68tZprX/istockphoto-1285827529-612x612.webp",
+      "description": "A professional cleaning procedure that removes plaque, tartar, and stains from teeth. Prevents cavities, gum disease, and bad breath. Recommended every six months for optimal oral health. Includes scaling, polishing, and fluoride treatment. Essential for maintaining strong teeth and gums. Enhances overall dental hygiene and freshness.",
+      "cost": 100
+    },
+    {
+      "id": 6,
+      "treatment": "Veneers",
+      "image": "https://i.ibb.co.com/k68tZprX/istockphoto-1285827529-612x612.webp",
+      "description": "Thin porcelain or composite shells placed over teeth to improve appearance. Covers discoloration, chips, or gaps. Provides a natural, long-lasting solution for a perfect smile. Requires minimal enamel removal. Custom-made to match teeth. Resistant to stains and wear. Enhances confidence with a brighter, symmetrical smile.",
+      "cost": 900
+    },
+    {
+      "id": 7,
+      "treatment": "Tooth Extraction",
+      "image": "https://i.ibb.co.com/k68tZprX/istockphoto-1285827529-612x612.webp",
+      "description": "The removal of a damaged, decayed, or impacted tooth to prevent infection and pain. Performed under local anesthesia for comfort. Necessary for overcrowding, wisdom teeth issues, or severe cavities. Recovery takes a few days with proper care. Can be followed by replacement options like implants or bridges.",
+      "cost": 200
+    },
+    {
+      "id": 8,
+      "treatment": "Invisalign",
+      "image": "https://i.ibb.co.com/k68tZprX/istockphoto-1285827529-612x612.webp",
+      "description": "A clear aligner system that straightens teeth without metal braces. Custom-made, removable, and nearly invisible. Ideal for mild to moderate misalignment. Offers comfort and convenience while eating or brushing. Requires regular aligner changes. Treatment time varies. Popular among adults and teens seeking a discreet orthodontic solution.",
+      "cost": 3000
+    }
+  ]
+  

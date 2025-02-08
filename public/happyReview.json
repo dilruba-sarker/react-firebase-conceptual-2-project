@@ -1,0 +1,51 @@
+[
+    {
+      "reviewId": 1,
+      "name": "John Doe",
+      "review": "Amazing service! Highly recommended.",
+      "image": "https://ibb.co.com/hJBdFTv6"
+    },
+    {
+      "reviewId": 2,
+      "name": "Jane Smith",
+      "review": "Great experience, very professional staff.",
+      "image": "https://ibb.co.com/7tG6gVvd"
+    },
+    {
+      "reviewId": 3,
+      "name": "Alice Johnson",
+      "review": "Good quality, but the waiting time was long.",
+      "image": "https://ibb.co.com/hJBdFTv6"
+    },
+    {
+      "reviewId": 4,
+      "name": "Michael Brown",
+      "review": "Excellent work, will come again!",
+      "image": "https://ibb.co.com/7tG6gVvd"
+    },
+    {
+      "reviewId": 5,
+      "name": "Emily Davis",
+      "review": "Friendly staff and clean environment.",
+      "image": "https://ibb.co.com/hJBdFTv6"
+    },
+    {
+      "reviewId": 6,
+      "name": "Chris Wilson",
+      "review": "Affordable prices and great results!",
+      "image": "https://ibb.co.com/7tG6gVvd"
+    },
+    {
+      "reviewId": 7,
+      "name": "Sophia Martinez",
+      "review": "The staff was very accommodating and kind.",
+      "image": "https://ibb.co.com/hJBdFTv6"
+    },
+    {
+      "reviewId": 8,
+      "name": "Daniel Anderson",
+      "review": "Quick and efficient service, highly satisfied.",
+      "image": "https://ibb.co.com/7tG6gVvd"
+    }
+  ]
+  
